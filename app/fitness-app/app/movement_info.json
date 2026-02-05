@@ -1,0 +1,44 @@
+{
+  "squat": {
+    "head_position": {
+      "title": "Head Position",
+      "info": "Are you facing forward?",
+      "link": "https://www.fitnessandpower.com/training/bodybuilding-misc/squat-head-position"
+    },
+    "thoracic_position": {
+      "title": "Thoracic Position",
+      "info": "Is your chest upright?",
+      "link": "https://www.strengthresurgence.com/cant-keep-chest-up-when-squatting/"
+    },
+    "trunk_position": {
+      "title": "Trunk Position",
+      "info": "Is the line of your spine parallel to the line of your shins?",
+      "link": "https://squatuniversity.com/2016/04/20/the-real-science-of-the-squat/"
+    },
+    "tibial_progression_angle": {
+      "title": "Tibial Progression Angle",
+      "info": "How much do your knees pass in front of the foot?",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262933/figure/F14/"
+    },
+    "foot_position": {
+      "title": "Foot Position",
+      "info": "Are your feet on the ground?",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262933/figure/F15/"
+    },
+    "depth": {
+      "title": "Depth",
+      "link": "https://www.drewmurphystrength.com/training-tips/2016/9/22/why-squat-deep",
+      "info": "Are you hitting appropriate depth (ie. are your thighs at least parallel with the ground)?"
+    },
+    "hip_position": {
+      "title": "Hip Position",
+      "link": "https://www.youtube.com/watch?v=dEZR0Mo_f6g",
+      "info": "Are your hips parallel to the ground (ie. no bias to the left or right)?"
+    },
+    "knee_position": {
+      "title": "Knee Position",
+      "link": "https://forgefitnesswichita.com/knees-caving-in-the-squat/",
+      "info": "Are your knees pointed outwards?"
+    }
+  }
+}
