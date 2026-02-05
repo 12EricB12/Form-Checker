@@ -1,0 +1,10 @@
+Run backend: 
+cd into backend-django directory
+.venv/scripts/activate
+cd fitness_app
+py -3.10 manage.py runserver 0.0.0.0:8000 (The 0.0.0.0 signifies any port)
+
+Run frontend: 
+cd app
+cd fitness-app
+npx expo start
