@@ -1,0 +1,46 @@
+# Env and secrets (never commit)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.eggs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+lib/
+lib64/
+bin/
+parts/
+sdist/
+var/
+
+# Django stuff
+*.log
+*.pot
+*.mo
+db.sqlite3
+media/  # Or wherever you store user-uploaded media files if not in version control
+static/ # If you collect static files on deployment and don't need them in source control
+
+# IDE-specific files (optional, can be in a global gitignore)
+.idea/          # PyCharm
+.vscode/        # VS Code (only if you don't want to share settings)
+.DS_Store       # macOS-specific files
+Thumbs.db       # Windows-specific files
+
+# Secret files
+local_settings.py
+secrets.json
